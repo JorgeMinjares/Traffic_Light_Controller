@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Traffic Light Controller", "index.html", [
-    [ "Main Page", "index.html", [
+    [ "Main Page 🚥", "index.html", [
       [ "Objective", "index.html#autotoc_md1", null ],
       [ "Requirements", "index.html#autotoc_md2", null ],
       [ "Hardware", "index.html#autotoc_md3", null ],

@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['main_20page_0',['Main Page',['../index.html',1,'']]],
+  ['main_20page_20🚥_0',['Main Page 🚥',['../index.html',1,'']]],
   ['main_2ec_1',['main.c',['../d0/d29/main_8c.html',1,'']]],
   ['mainpage_2emd_2',['mainpage.md',['../dc/dc6/mainpage_8md.html',1,'']]],
   ['map_3',['map',['../d4/d1c/tlc__bsp_8c.html#a456f6450c501691b495bf89c20d7416a',1,'map(uint16_t x, uint16_t in_min, uint16_t in_max, uint16_t out_min, uint16_t out_max):&#160;tlc_bsp.c'],['../d4/d56/tlc__bsp_8h.html#a456f6450c501691b495bf89c20d7416a',1,'map(uint16_t x, uint16_t in_min, uint16_t in_max, uint16_t out_min, uint16_t out_max):&#160;tlc_bsp.c']]],
