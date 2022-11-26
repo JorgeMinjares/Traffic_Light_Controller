@@ -1,4 +1,4 @@
-# Test_code_MC2
+# Traffic Light Controller :traffic_light:
 ## **Objective** 
 The objective of this project is to simulate a `four-way traffic light intersection with pedestrain inputs`
 

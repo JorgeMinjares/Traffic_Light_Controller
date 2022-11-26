@@ -1,4 +1,4 @@
-# Main Page
+# Main Page 🚥
 
 ## Objective
 The objective of this project is to simulate a `four-way traffic light with pedestrain inputs`
