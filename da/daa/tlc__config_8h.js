@@ -1,0 +1,27 @@
+var tlc__config_8h =
+[
+    [ "BUTTON_0", "da/daa/tlc__config_8h.html#a2e2c60c01e1e303a89b0b16842d77cf9", null ],
+    [ "BUTTON_1", "da/daa/tlc__config_8h.html#af58f5adf2c4e479e30f2efaa24e38324", null ],
+    [ "BUTTON_2", "da/daa/tlc__config_8h.html#a46acb6114f87027ec8fa196c02ea7d81", null ],
+    [ "BUTTON_3", "da/daa/tlc__config_8h.html#aec518359a13ecef01c1f596fea855364", null ],
+    [ "BUZZER_0", "da/daa/tlc__config_8h.html#ab6346c76abcaa494c398a10c81c68e09", null ],
+    [ "BUZZER_1", "da/daa/tlc__config_8h.html#aa4cd2175a99b107d25d4707caf93ac05", null ],
+    [ "DIRECTION_0", "da/daa/tlc__config_8h.html#a6d085f3cb29dfc5ad32bd60de7f562f3", null ],
+    [ "DIRECTION_1", "da/daa/tlc__config_8h.html#a1f7fbf1192f629379b494a79564afee6", null ],
+    [ "HIGH", "da/daa/tlc__config_8h.html#a5bb885982ff66a2e0a0a45a8ee9c35e2", null ],
+    [ "LED_0", "da/daa/tlc__config_8h.html#aa94efefdb04d44c846c163f108d52ae9", null ],
+    [ "LED_1", "da/daa/tlc__config_8h.html#aaf81f5fa7d1e779f83e9bf4ce631a7b6", null ],
+    [ "LED_2", "da/daa/tlc__config_8h.html#ae60a8c1e03b38463f77d556a4a0a8a3b", null ],
+    [ "LED_3", "da/daa/tlc__config_8h.html#a07b3fb51ae7c3cc824dd714b46c1b2b6", null ],
+    [ "LED_4", "da/daa/tlc__config_8h.html#aec84038372d7a55c8b358398978e1dac", null ],
+    [ "LED_5", "da/daa/tlc__config_8h.html#ab0e84d3f877a513d7171cc3f702efb20", null ],
+    [ "LOW", "da/daa/tlc__config_8h.html#ab811d8c6ff3a505312d3276590444289", null ],
+    [ "MAX_ADC_VAL", "da/daa/tlc__config_8h.html#a4de85d5ed3adfe2aa94a81e7b4cf8829", null ],
+    [ "MAX_CARS", "da/daa/tlc__config_8h.html#aee5d3e7e32a1dec658328f284fd4db26", null ],
+    [ "MIN_ADC_VAL", "da/daa/tlc__config_8h.html#a1eb2cca934357cd83013358684959adc", null ],
+    [ "MIN_CARS", "da/daa/tlc__config_8h.html#a53a4719d085c0f8692c38e7e2f4382e7", null ],
+    [ "NORTH_SOUTH", "da/daa/tlc__config_8h.html#ad48211e3a1dfb31abfc91bdc60cef6a1", null ],
+    [ "TRAFFIC_DENSITY", "da/daa/tlc__config_8h.html#aba2116bcdfabb5b282675d3907d2927a", null ],
+    [ "WALK_0", "da/daa/tlc__config_8h.html#ac27913ff72787209cf1de8a9c95523a8", null ],
+    [ "WALK_1", "da/daa/tlc__config_8h.html#a58838b205a2cc1b1f7fd112131b1de73", null ]
+];

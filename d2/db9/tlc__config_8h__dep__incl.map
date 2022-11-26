@@ -1,0 +1,6 @@
+<map id="Firmware/main/tlc_config.h" name="Firmware/main/tlc_config.h">
+<area shape="rect" id="node1" title="Traffic Light Controlller Configuration." coords="109,5,287,31"/>
+<area shape="rect" id="node2" href="$d4/d56/tlc__bsp_8h.html" title="Traffic Light Controller Board Support Package (BSP)" coords="67,79,217,119"/>
+<area shape="rect" id="node4" href="$d0/d29/main_8c.html" title="main application" coords="180,174,331,199"/>
+<area shape="rect" id="node3" href="$d4/d1c/tlc__bsp_8c.html" title="Traffic Light Controller Board Support Package (BSP) source code." coords="5,167,156,207"/>
+</map>
